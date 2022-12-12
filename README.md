@@ -19,3 +19,5 @@ With that command you will run both applications, Backend (Node with Express) an
 
 1) Route BackEnd [http://localhost:8000](http://localhost:8000) and you can test with postman or other platform to test APIs
 2) Route FrontEnd [http://localhost:3000](http://localhost:3000) And you can show the view test
+
+### `docker-compose down (Stop and remove containers and networks)`
