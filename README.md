@@ -1,4 +1,4 @@
-# Docker for Mercado Libre Project 
+# Docker for Mercado Libre Project (FrontEnd and BackEnd)
 
 This project was bootstrapped with [Docker](https://github.com/docker/compose).
 
