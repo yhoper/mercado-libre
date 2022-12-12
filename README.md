@@ -5,9 +5,9 @@ This project was bootstrapped with [Docker](https://github.com/docker/compose).
 ## What do you need?
 
 1) Clone this repositore.
-2) Inside in this repository, you will need clone FrontEnd and BackEnd, next point: 
-2.1) Clone repositore FrontEnd [https://github.com/yhoper/mercadoLibreFront](https://github.com/yhoper/mercadoLibreFront) 
-2.2) Clone repositore BackEnd [https://github.com/yhoper/mercadoLibre](https://github.com/yhoper/mercadoLibre) 
+2) Inside in this repository, you will need clone FrontEnd and BackEnd, points 3 and 4:
+3) Clone repositore FrontEnd [https://github.com/yhoper/mercadoLibreFront](https://github.com/yhoper/mercadoLibreFront).
+4) Clone repositore BackEnd [https://github.com/yhoper/mercadoLibre](https://github.com/yhoper/mercadoLibre) 
 
 ## Available Scripts
 
