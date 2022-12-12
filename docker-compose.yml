@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  api:
+    build: ./mercadoLibre
+    container_name: api_backend
+    ports:
+      - '8000:8000'
+    volumes:
+      - ./mercadoLibre:/app
+  client:
+    build: ./mercadoLibreFront
+    container_name: client_frontend
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./mercadoLibreFront:/app
+    stdin_open: true
+    tty: true
